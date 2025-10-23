@@ -1,8 +1,8 @@
 # Duygu Tanıma Projesi (Emotion Recognition Project)
 
-**Geliştirici:** Soheyb Boutadjine - 212802095
+**Geliştirici:** Soheyb Boutadjine 
 
-## 📋 Proje Hakkında
+##  Proje Hakkında
 
 Bu proje, derin öğrenme teknikleri kullanarak yüz ifadelerinden duyguları tanıyan bir sistemdir. Proje, 7 farklı duygu sınıfını (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise) tespit edebilen bir CNN (Convolutional Neural Network) modeli içerir.
 
@@ -50,7 +50,7 @@ ProjeKodlari/
     └── surprise/
 ```
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 ### Gereksinimler
 
@@ -73,7 +73,7 @@ streamlit run app.py
 python Test.py
 ```
 
-## 🎯 Kullanım
+##  Kullanım
 
 ### Web Arayüzü (app.py)
 1. Uygulamayı başlatın: `streamlit run app.py`
@@ -85,7 +85,7 @@ python Test.py
 - OpenCV ile gerçek zamanlı kamera analizi
 - 'q' tuşuna basarak çıkış yapabilirsiniz
 
-## 🧠 Model Mimarisi
+##  Model Mimarisi
 
 Proje, özel olarak tasarlanmış bir CNN modeli kullanır:
 
@@ -95,7 +95,7 @@ Proje, özel olarak tasarlanmış bir CNN modeli kullanır:
 - **ELU Aktivasyon**: Daha iyi performans için
 - **7 Sınıf Çıkışı**: 7 farklı duygu sınıfı
 
-## 📊 Veri Seti
+##  Veri Seti
 
 - **Toplam Veri**: ~30,000+ görüntü
 - **Eğitim Verisi**: ~25,000+ görüntü
@@ -103,7 +103,7 @@ Proje, özel olarak tasarlanmış bir CNN modeli kullanır:
 - **Görüntü Boyutu**: 48x48 piksel (gri tonlama)
 - **Duygu Sınıfları**: 7 sınıf (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise)
 
-## 🔧 Model Eğitimi
+##  Model Eğitimi
 
 Modeli yeniden eğitmek için:
 
@@ -117,20 +117,20 @@ Eğitim parametreleri:
 - **Optimizer**: Adam (lr=0.001)
 - **Data Augmentation**: Döndürme, kaydırma, yakınlaştırma
 
-## 📈 Performans
+##  Performans
 
 - **Eğitim Doğruluğu**: %85+ 
 - **Doğrulama Doğruluğu**: %80+
 - **Gerçek Zamanlı İşleme**: 30+ FPS
 
-## 🎨 Arayüz Özellikleri
+##  Arayüz Özellikleri
 
 - **Modern Tasarım**: Koyu tema ile şık görünüm
 - **Responsive**: Farklı ekran boyutlarına uyum
 - **Kullanıcı Dostu**: Basit ve anlaşılır arayüz
 - **Gerçek Zamanlı Sonuçlar**: Anlık duygu tespiti
 
-## 🤝 Katkıda Bulunma
+##  Katkıda Bulunma
 
 1. Projeyi fork edin
 2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
@@ -138,13 +138,12 @@ Eğitim parametreleri:
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
 
-## 📝 Lisans
+##  Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## 📞 İletişim
-
-**Soheyb Boutadjine** - 212802095
+##  İletişim
+Sohibboutadjine@gmail.com
 
 ---
 
