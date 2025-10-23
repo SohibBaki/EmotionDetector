@@ -6,7 +6,7 @@
 
 Bu proje, derin öğrenme teknikleri kullanarak yüz ifadelerinden duyguları tanıyan bir sistemdir. Proje, 7 farklı duygu sınıfını (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise) tespit edebilen bir CNN (Convolutional Neural Network) modeli içerir.
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **Gerçek Zamanlı Duygu Tanıma**: Kameradan canlı video akışı ile duygu analizi
 - **Fotoğraf Analizi**: Yüklenen fotoğraflardan duygu tespiti
@@ -14,7 +14,7 @@ Bu proje, derin öğrenme teknikleri kullanarak yüz ifadelerinden duyguları ta
 - **Yüksek Doğruluk**: Eğitilmiş CNN modeli ile yüksek başarı oranı
 - **Çoklu Yüz Tespiti**: Tek seferde birden fazla yüzü analiz edebilme
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
 - **Python 3.x**
 - **TensorFlow/Keras**: Derin öğrenme modeli
@@ -22,7 +22,7 @@ Bu proje, derin öğrenme teknikleri kullanarak yüz ifadelerinden duyguları ta
 - **Streamlit**: Web arayüzü
 - **NumPy**: Sayısal hesaplamalar
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 ProjeKodlari/
